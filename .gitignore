@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.agent_auto_*.json
+.liquid_memory.json
+.skills/
+*.tmp
